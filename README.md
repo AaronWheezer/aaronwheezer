@@ -27,7 +27,6 @@
 <img src="https://profile-counter.glitch.me/AaronWheezer/count.svg" alt="Hello world" />
 
 
-
 <hr />
 
 <p align="center">
