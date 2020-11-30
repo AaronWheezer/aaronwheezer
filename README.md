@@ -15,9 +15,11 @@
 
 
 
-## 🔗 Contact me on :
 
-<a href="https://carl7.xyz"> My site </a>
+### You can find in me in the web 🌍
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]>
 
 ### 👀 visitor count
 
@@ -36,3 +38,7 @@
              
 </p>
 
+[website]: https://carl7.xyz
+[twitter]: https://twitter.com/niggerslayer420
+[youtube]: https://youtube.com/CarlWheezer
+[instagram]: https://www.instagram.com/aaronvanmarcke/
