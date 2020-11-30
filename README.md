@@ -8,7 +8,7 @@
 <div align="center">
 
 
-[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=AaronWheezer&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/AaronWheezer/github-readme-stats)
+[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=AaronWheezer&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/AaronWheezer/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronWheezer&title_color=2257EA&bg_color=f7f7f7&)](https://github.com/AaronWheezer/github-readme-stats)
 
 </div>
