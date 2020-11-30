@@ -1,6 +1,6 @@
 <h1 align="center" > Hi, I am Carl Wheezer 👋</h1>
 
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+![hello world](https://github.com/AaronWheezer/aaronwheezer/blob/main/Carl.png)
 
 <hr/>
 
