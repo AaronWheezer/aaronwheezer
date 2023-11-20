@@ -39,6 +39,6 @@
 </p>
 
 [website]: https://carlwheezer.be
-[twitter]: https://twitter.com/niggerslayer420
+[twitter]: https://twitter.com/
 [youtube]: https://youtube.com/CarlWheezer
 [instagram]: https://www.instagram.com/aaronvanmarcke/
